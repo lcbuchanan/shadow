@@ -2,7 +2,7 @@ import {s, movingPixels, firstPixels} from './videoCanvas.js';
 import Bubble from './bubble';
 import Tracker from './tracker';
 import { blue, purple, black } from './constants';
-// import Particle from './particle'
+
 
 
 //canvas that records video

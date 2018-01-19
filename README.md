@@ -8,3 +8,7 @@ and then compare further movement against that background.
 
 "Touching" either of the colored dots will change the color of the pixels
 being drawn to the screen.
+
+
+Run with node_modules/.bin/webpack-dev-server --content-base ./
+
